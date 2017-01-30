@@ -1,0 +1,44 @@
+{
+	"status": "ok",
+	"date": "2017-01-30",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://multirom-v500.github.io/installer/multirom-20170130-v33a-UNOFFICIAL-v500.zip",
+					"version": "33a",
+					"type": "multirom",
+					"size": "5272127",
+					"md5": "ad4e2801200ec62d3584641b4f7ad2d5"
+				},
+				{
+					"url": "https://multirom-v500.github.io/recovery/TWRP-multirom-20170130-v500.img",
+					"version": "mrom20170130-00",
+					"type": "recovery",
+					"size": "16295952",
+					"md5": "6ef1f0fbb2d0e92298aa13a52e41b05c"
+				},
+				{
+					"url": "https://multirom-v500.github.io/uninstaller/multirom_uninstaller.zip",
+					"version": "1",
+					"type": "uninstaller",
+					"size": "1638323",
+					"md5": "b95627f2eccfa8da995421eb0d5bcb92"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://multirom-v500.github.io/changelog/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://multirom-v500.github.io/changelog/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "v500"
+		}
+	]
+}

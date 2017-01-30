@@ -1,0 +1,18 @@
+====================
+     01-30-2017
+====================
+
+* MultiROM v33a
+* MultiROMMgr app support
+* Patches by nkk71:
+* Fix: Update external partitions mount strategy
+
+====================
+     01-13-2017
+====================
+
+* Some fixes
+
+====================
+     23-11-2016
+====================
